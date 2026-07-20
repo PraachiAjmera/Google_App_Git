@@ -10,8 +10,6 @@ The final dashboard enables users to dynamically explore the dataset using slice
 
 ## 📷 Dashboard Preview
 
-> *(Add your dashboard screenshot here after uploading it to the Images folder.)*
-
 ![Dashboard](Image/Full_Dashboard.png)
 
 ---
